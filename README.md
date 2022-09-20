@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliyumg
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, web development
 - 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate on Data science projects
+- 💞️ I’m looking to collaborate on Web development and Data science projects
 - 📫 How to reach me musa_aliyu@yahoo.com
 
 <!---
